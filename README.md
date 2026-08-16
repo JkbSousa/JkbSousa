@@ -4,7 +4,7 @@
 💻 Desenvolvedor em formação, com foco em **Backend e desenvolvimento de aplicações**
 📍 Recife, Pernambuco, Brasil
 
-Atualmente estou aprimorando meus conhecimentos em desenvolvimento de software, principalmente com **Java, Spring Boot, C#, PHP e bancos de dados**.
+Atualmente estou aprimorando meus conhecimentos em desenvolvimento de software, principalmente com **Java, Spring Boot e bancos de dados**.
 Gosto de entender como as aplicações funcionam por trás dos sistemas e transformar conceitos de programação em projetos práticos.
 
 ---
@@ -52,8 +52,7 @@ Gosto de entender como as aplicações funcionam por trás dos sistemas e transf
 ## 🔨 Projetos
 
 ### 🎯 MotionLab
-Simulação de física de projéteis com frontend em React e API em Java Spring Boot, com resistência do ar, gravidade multi-planeta e visualização de trajetória em tempo real. Desenvolvido com apoio de ferramentas de IA (Claude/ChatGPT), aplicando conceitos de física e explorando arquitetura full-stack.
-
+Simulação de física de projéteis com frontend em React e API em Java Spring Boot, com resistência do ar, gravidade multi-planeta e visualização de trajetória em tempo real. *Desenvolvido com apoio de ferramentas de IA (Claude/ChatGPT), aplicando conceitos de física e explorando arquitetura full-stack.*
 **Tecnologias:**
 - Frontend: React 18 + TypeScript, Vite, Tailwind CSS, Framer Motion, Recharts
 - Backend: Java 17+, Spring Boot, Maven (API REST de cálculo físico)
