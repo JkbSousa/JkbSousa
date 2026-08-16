@@ -52,9 +52,11 @@ Gosto de entender como as aplicações funcionam por trás dos sistemas e transf
 ## 🔨 Projetos
 
 ### 🎯 MotionLab
-Simulação de física de projéteis com frontend em React e API em Java Spring Boot, com resistência do ar, gravidade multi-planeta e visualização de trajetória em tempo real.
+Simulação de física de projéteis com frontend em React e API em Java Spring Boot, com resistência do ar, gravidade multi-planeta e visualização de trajetória em tempo real. Desenvolvido com apoio de ferramentas de IA (Claude/ChatGPT), aplicando conceitos de física e explorando arquitetura full-stack.
 
-**Tecnologias:** React, TypeScript, Java, Spring Boot
+**Tecnologias:** 
+Frontend: React 18 + TypeScript, Vite, Tailwind CSS, Framer Motion, Recharts
+Backend: Java 17+, Spring Boot, Maven (API REST de cálculo físico)
 
 🔗 [github.com/JkbSousa/MotionLab](https://github.com/JkbSousa/MotionLab)
 
