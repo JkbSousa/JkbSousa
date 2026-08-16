@@ -1,6 +1,6 @@
 # 👋 Olá! Eu sou Gabriel Sousa
 
-🎓 Estudante de **Ciência da Computação** (UNIFG)
+🎓 Estudante de **Ciência da Computação**
 💻 Desenvolvedor em formação, com foco em **Backend e desenvolvimento de aplicações**
 📍 Recife, Pernambuco, Brasil
 
